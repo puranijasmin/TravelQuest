@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366.996" height="370.781" viewBox="0 0 366.996 370.781">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_3" data-name="Clip 3" d="M1.253,164.037A183.98,183.98,0,0,0,0,184.8H0V322.972A26.177,26.177,0,0,0,26.325,349h139.76a191.119,191.119,0,0,0,20.184-1.117h0C280,337.925,353,259.515,353,164.2h0C353,73.515,278.642,0,186.918,0h0C90.793,0,11.7,71.762,1.253,164.037" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.042" y1="0.758" x2="1.009" y2="0.213" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c3d63d"/>
+      <stop offset="1" stop-color="#469580"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4_Copy_4" data-name="Group 4 Copy 4" transform="translate(366.996 18.265) rotate(93)" opacity="0.181">
+    <path id="Clip_3-2" data-name="Clip 3" d="M1.253,164.037A183.98,183.98,0,0,0,0,184.8H0V322.972A26.177,26.177,0,0,0,26.325,349h139.76a191.119,191.119,0,0,0,20.184-1.117h0C280,337.925,353,259.515,353,164.2h0C353,73.515,278.642,0,186.918,0h0C90.793,0,11.7,71.762,1.253,164.037" fill="none"/>
+    <g id="Group_4_Copy_4-2" data-name="Group 4 Copy 4" clip-path="url(#clip-path)">
+      <path id="Fill_2" data-name="Fill 2" d="M1.253,164.037A183.98,183.98,0,0,0,0,184.8H0V322.972A26.177,26.177,0,0,0,26.325,349h139.76a191.119,191.119,0,0,0,20.184-1.117h0C280,337.925,353,259.515,353,164.2h0C353,73.515,278.642,0,186.918,0h0C90.793,0,11.7,71.762,1.253,164.037" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

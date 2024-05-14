@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.254" height="28.254" viewBox="0 0 28.254 28.254">
+  <g id="clock" transform="translate(0.25 0.25)">
+    <path id="Shape" d="M4.066,23.687a13.867,13.867,0,1,1,9.811,4.067A13.867,13.867,0,0,1,4.066,23.687Z" transform="translate(0 0)" fill="none" stroke="#53969b" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path id="Shape-2" data-name="Shape" d="M0,11.273A11.272,11.272,0,1,1,11.273,22.544,11.286,11.286,0,0,1,0,11.273Z" transform="translate(2.604 2.604)" fill="none" stroke="#53969b" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path id="Shape-3" data-name="Shape" d="M.128,8.8,2.3,6.63a1.3,1.3,0,0,1,.741-1.786V.434a.433.433,0,1,1,.867,0v4.41A1.3,1.3,0,0,1,3.469,7.37a1.272,1.272,0,0,1-.56-.127L.741,9.411A.434.434,0,1,1,.128,8.8Z" transform="translate(10.408 7.807)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path" d="M.434,1.734A.434.434,0,0,0,.867,1.3V.434A.434.434,0,0,0,0,.434V1.3A.434.434,0,0,0,.434,1.734Z" transform="translate(13.443 4.339)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-2" data-name="Path" d="M.74.127.127.74a.434.434,0,0,0,.613.613L1.353.74A.434.434,0,1,0,.74.127Z" transform="translate(19.268 7.005)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-3" data-name="Path" d="M1.3,0H.434a.434.434,0,0,0,0,.867H1.3A.434.434,0,1,0,1.3,0Z" transform="translate(21.681 13.443)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-4" data-name="Path" d="M.74.127A.434.434,0,0,0,.127.74l.613.613A.434.434,0,0,0,1.353.74Z" transform="translate(19.268 19.268)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-5" data-name="Path" d="M.434,0A.434.434,0,0,0,0,.434V1.3a.434.434,0,1,0,.867,0V.434A.434.434,0,0,0,.434,0Z" transform="translate(13.443 21.681)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-6" data-name="Path" d="M.74.127.127.74a.434.434,0,0,0,.613.613L1.353.74A.434.434,0,0,0,.74.127Z" transform="translate(7.005 19.268)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-7" data-name="Path" d="M1.3,0H.434a.434.434,0,0,0,0,.867H1.3A.434.434,0,1,0,1.3,0Z" transform="translate(4.339 13.443)" fill="none" stroke="#53969b" stroke-width="1"/>
+    <path id="Path-8" data-name="Path" d="M.74.127A.434.434,0,0,0,.127.74l.613.613A.434.434,0,0,0,1.353.74Z" transform="translate(7.005 7.005)" fill="none" stroke="#53969b" stroke-width="1"/>
+  </g>
+</svg>

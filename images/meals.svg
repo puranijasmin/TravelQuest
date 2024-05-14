@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="82px" viewBox="0 0 93 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <defs>
+        <polygon id="path-1" points="0 0 50 0 50 49 0 49"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Single-Tour" transform="translate(-991.000000, -1298.000000)">
+            <g id="Group-14" transform="translate(991.000000, 1298.000000)">
+                <g id="Group-3" opacity="0.356717842" transform="translate(0.000000, 17.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M43.577407,7.21777551 C50.0873223,15.9829086 54.1957688,38.6826145 43.043414,46.3279666 C31.8910591,53.9704363 9.70034781,43.6661447 3.19193249,34.9010116 C-3.3179828,26.1358785 0.446968212,12.8325336 11.5993231,5.1886227 C22.751678,-2.45672934 37.0689917,-1.54735759 43.577407,7.21777551" id="Fill-1" fill="#C4D63E" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M28.2809798,45 L85,65.3204581 C73.7676579,94.1556317 17.8925138,76.8545275 28.2809798,45 Z" id="Stroke-4" stroke="#153D34" stroke-width="3.827" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M36.1420249,46.9052564 C36.1420249,46.9052564 26.2940559,9.30323883 64.4359775,20.4331573 C92.5573421,7.63436077 100.353433,48.8110524 78.0808799,63" id="Stroke-6" stroke="#153D34" stroke-width="3.827" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M63,14 C63,14 63.5652688,2.51947401 78,0 C78,0 75.4518606,12.5991234 63,14" id="Fill-8" fill="#153D34" opacity="0.607785247"></path>
+                <path d="M59.9233441,66.5187858 C60.4764843,65.4109578 57.9847521,62.6422546 54.1075682,60.4265986 C50.2303844,58.2126762 46.6306376,57.380505 46.0774973,58.488333 C45.5208891,59.596161 48.0143553,62.0874738 51.8915392,64.3031298 C55.768723,66.7944426 59.3702038,67.6266139 59.9233441,66.5187858" id="Fill-10" fill="#153D34" opacity="0.590706759"></path>
+                <path d="M55,6 C63.7268071,12.9443478 63.7268071,10.7234783 64,21" id="Stroke-12" stroke="#153D34" stroke-width="3.827" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

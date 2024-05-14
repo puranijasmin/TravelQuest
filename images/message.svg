@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.761" height="16.551" viewBox="0 0 24.761 16.551">
+  <g id="message" transform="translate(0.258 0.254)">
+    <path id="Shape" d="M.346,16.038A.346.346,0,0,1,0,15.692V.346A.346.346,0,0,1,.346,0H23.871a.346.346,0,0,1,.346.346V15.692a.346.346,0,0,1-.346.346Z" transform="translate(0 0.008)" fill="none" stroke="#549798" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path id="Path" d="M8.675,8.646.109.6a.346.346,0,1,1,.474-.5L9.149,8.141a4.331,4.331,0,0,0,5.919,0L23.633.094a.346.346,0,1,1,.474.5L15.541,8.646a5.024,5.024,0,0,1-6.866,0Z" transform="translate(0 0)" fill="none" stroke="#549798" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path id="Path-2" data-name="Path" d="M.346,7.919a.346.346,0,0,1-.222-.612L8.775.082a.346.346,0,1,1,.444.531L.568,7.839A.346.346,0,0,1,.346,7.919Z" transform="translate(0 8.125)" fill="none" stroke="#549798" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path id="Path-3" data-name="Path" d="M9,7.919a.346.346,0,0,1-.222-.081L.126.613A.346.346,0,1,1,.57.082L9.221,7.308A.346.346,0,0,1,9,7.919Z" transform="translate(14.871 8.125)" fill="none" stroke="#549798" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>
